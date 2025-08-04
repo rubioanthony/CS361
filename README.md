@@ -7,3 +7,6 @@ B. To receive data from my microservice, you should monitor the same port you co
 the same port for the main program to do with it as needed. It works the same as the request for data, in the code however I did await.res.json() to receive the data in the program
 and it returns it as a JSON.
 
+
+
+![microservice_A](https://github.com/user-attachments/assets/18e6d7ce-e773-4b19-ab3e-c602caf65593)
